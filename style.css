@@ -1,0 +1,98 @@
+
+
+.clickhere{
+    background-color: rgba(240, 248, 255, 0.72);
+    color: rgba(0, 0, 0, 0.462);
+    border-radius: 5px;
+}
+
+
+.card-img{
+    height: 100%;
+    width: 100%;
+    margin-left: 180px;
+}
+.text{
+    font-size: 12px;
+    height: 40px;
+    width: 55%;
+}
+.private{
+    position: absolute;
+    top: -200px;
+    margin-left: 605px;
+}
+
+.video{
+    position: absolute;
+    margin-left: 250px;
+    padding-top: 100px;
+    width: 25%;
+    height: 400px;
+}
+.videoone{
+    position: relative;
+    top: 0px;
+    margin-left: 700px;
+    width: 25%;
+    height: 400px;
+}
+.videotwo{
+    margin-left: 60px;
+    padding-top: 40px;
+}
+.footermain{
+    display: flex;
+    background-color: rgba(10, 11, 10, 0.733);
+    background-image: linear-gradient(50deg, rgb(35, 31, 31),rgb(110, 197, 207),rgb(76, 41, 41),rgb(228, 118, 118));
+    height: 200px;
+    width: 100%;
+    color: aliceblue;
+    padding-left: 120px;
+}
+.firstfooter img{
+    padding-top: 9px;
+    margin-left: 0px;
+    height: 130px;
+    width: 110%;
+}
+.firstfooter h4{
+   padding-top: 10px;
+   text-align: center;
+}
+.secondfooter{
+    margin-left: 200px;
+    padding-top: 20px;
+}
+
+.secondfooter ul li{
+    padding: 2px;
+    list-style: none;
+    font-style: none;
+}
+
+.thirdfooter{
+    margin-left: 200px;
+    padding-top: 20px;
+}
+
+.thirdfooter ul li{
+    padding: 2px;
+    list-style: none;
+    font-style: none;
+}
+.search{
+    margin-left: 200px;
+    padding-top: 20px;
+}
+.search button{
+    background-color: rgba(0, 0, 0, 0.483);
+    border-radius: 5px;
+    border: 1px solid green;
+    width: 70px;
+    margin-left: 8px;
+    color: white;
+}
+.search input{
+    border-radius: 5px;
+}
